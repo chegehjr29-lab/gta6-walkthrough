@@ -1,0 +1,47 @@
+[
+  {
+    "id": "m1",
+    "title": "Hank's Waffles Hold Up",
+    "protagonist": "Both",
+    "region": "Vice Dale County",
+    "difficulty": "Easy",
+    "reward": "$1,200 + Getaway Vehicle",
+    "summary": "Execute a fast-paced diner robbery and evade initial local response units.",
+    "tasks": [
+      "Infiltrate the diner during late hours",
+      "Subdue the register clerk without raising panic",
+      "Collect cash bag from counter",
+      "Escape Vice Dale County police perimeter"
+    ]
+  },
+  {
+    "id": "m2",
+    "title": "Ocean Drive Drop",
+    "protagonist": "Lucia",
+    "region": "Vice City Beach",
+    "difficulty": "Medium",
+    "reward": "$4,500 + Ocean Drive Safehouse",
+    "summary": "Intercept a contraband drop along the coastal strip while maintaining a low profile.",
+    "tasks": [
+      "Tail the delivery vehicle to Ocean Drive",
+      "Disable the transport without destroying cargo",
+      "Secure contraband and clear heat",
+      "Store cargo at safehouse garage"
+    ]
+  },
+  {
+    "id": "m3",
+    "title": "Port Gellhorn Heist Prep",
+    "protagonist": "Jason",
+    "region": "Port Gellhorn",
+    "difficulty": "Hard",
+    "reward": "Heavy Equipment Unlocked",
+    "summary": "Procure tactical gear and security passcodes for the upcoming container yard run.",
+    "tasks": [
+      "Hack terminal at Port Gellhorn administrative building",
+      "Steal flatbed transport truck",
+      "Lose level 3 police pursuit",
+      "Stash equipment at Everglades hideout"
+    ]
+  }
+]
